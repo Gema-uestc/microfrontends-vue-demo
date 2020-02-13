@@ -1,0 +1,10 @@
+{
+  "name": "portal",
+  "private": true,
+  "scripts": {
+    "serve": "serve -s -l 5000"
+  },
+  "devDependencies": {
+    "serve": "^11.1.0"
+  }
+}
